@@ -1,6 +1,8 @@
 # ALPR Admin
 
-A new Flutter project.
+A comprehensive Flutter-based mobile admin panel for an Automatic License Plate Recognition (ALPR) system. It provides a modern, intuitive interface for real-time monitoring, data management, and system configuration, all from a mobile device.
+
+The application is built with a focus on a clean architecture, state management using Provider, and a feature-rich user experience. It simulates interactions with a backend service for a realistic demonstration of its capabilities.
 
 ## Getting Started
 
